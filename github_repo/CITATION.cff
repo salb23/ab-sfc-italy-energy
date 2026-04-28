@@ -21,8 +21,8 @@ authors:
 version: "0.1.0-sie2026"
 date-released: "2026-04-30"
 license: "MIT"
-repository-code: "https://github.com/salb23/sie2026-ab-sfc-italy-energy"
-url: "https://github.com/salb23/sie2026-ab-sfc-italy-energy"
+repository-code: "https://github.com/salb23/ab-sfc-italy-energy"
+url: "https://github.com/salb23/ab-sfc-italy-energy"
 keywords:
   - "agent-based modelling"
   - "stock-flow consistency"
