@@ -13,13 +13,17 @@ authors:
     given-names: "Salvatore"
     email: "salvatore.buccella@phd.unich.it"
     affiliation: "Università G. d'Annunzio di Chieti-Pescara"
+  - family-names: "Ascatigno"
+    given-names: "Aurora"
+    email: "aurora.ascatigno@unich.it"
+    affiliation: "Università G. d'Annunzio di Chieti-Pescara"
+ - family-names: "Bucciarelli"
+    given-names: "Edgardo"
+    email: "edgardo.bucciarelli@unich.it"
+    affiliation: "Università G. d'Annunzio di Chieti-Pescara"
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # add when available
-  # TODO: add co-author and supervisor here, e.g.:
-  # - family-names: "<co-author surname>"
-  #   given-names: "<co-author first name>"
-  #   affiliation: "<institution>"
-version: "0.1.0-sie2026"
-date-released: "2026-04-30"
+version: "v0.1.0 — Conference-ready production model"
+date-released: "2026-04-28"
 license: "MIT"
 repository-code: "https://github.com/salb23/ab-sfc-italy-energy"
 url: "https://github.com/salb23/ab-sfc-italy-energy"
@@ -37,11 +41,17 @@ preferred-citation:
   type: conference-paper
   title: "An Agent-Based Stock-Flow Consistent Framework for Energy Policy Design"
   authors:
-    - family-names: "Buccella"
-      given-names: "Salvatore"
-      email: "salvatore.buccella@phd.unich.it"
-      affiliation: "Università G. d'Annunzio di Chieti-Pescara"
-    # TODO: add co-author(s) here as well, mirroring the list above
-  collection-title: "Proceedings of the LXVII Annual Conference of the Italian Economic Association (SIE)"
+  - family-names: "Buccella"
+    given-names: "Salvatore"
+    email: "salvatore.buccella@phd.unich.it"
+    affiliation: "Università G. d'Annunzio di Chieti-Pescara"
+  - family-names: "Ascatigno"
+    given-names: "Aurora"
+    email: "aurora.ascatigno@unich.it"
+    affiliation: "Università G. d'Annunzio di Chieti-Pescara"
+ - family-names: "Bucciarelli"
+    given-names: "Edgardo"
+    email: "edgardo.bucciarelli@unich.it"
+    affiliation: "Università G. d'Annunzio di Chieti-Pescara"
   year: 2026
-  # doi: "10.5281/zenodo.PLACEHOLDER"   # update once Zenodo mints the DOI
+  # doi: https://doi.org/10.5281/zenodo.19844891
