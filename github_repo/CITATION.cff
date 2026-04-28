@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the paper and the archived release."
+title: "AB-SFC Italy — Energy Policy Framework"
+abstract: >-
+  An Agent-Based Stock-Flow Consistent (AB-SFC) macroeconomic framework for the
+  quantitative analysis of energy-price shocks, decarbonisation policy and the
+  distributional incidence of the low-carbon transition in the Italian economy.
+  Includes a calibrated 14-cell scenario grid with N = 100 seeds under common
+  random numbers, a four-dimensional Resilience Index, and reference outputs
+  for the SIE 2026 conference paper.
+authors:
+  - family-names: "Buccella"
+    given-names: "Salvatore"
+    email: "salvatore.buccella@phd.unich.it"
+    affiliation: "Università G. d'Annunzio di Chieti-Pescara"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add when available
+  # TODO: add co-author and supervisor here, e.g.:
+  # - family-names: "<co-author surname>"
+  #   given-names: "<co-author first name>"
+  #   affiliation: "<institution>"
+version: "0.1.0-sie2026"
+date-released: "2026-04-30"
+license: "MIT"
+repository-code: "https://github.com/salb23/sie2026-ab-sfc-italy-energy"
+url: "https://github.com/salb23/sie2026-ab-sfc-italy-energy"
+keywords:
+  - "agent-based modelling"
+  - "stock-flow consistency"
+  - "Italian economy"
+  - "energy transition"
+  - "carbon pricing"
+  - "electricity markets"
+  - "economic resilience"
+  - "green finance"
+  - "AB-SFC"
+preferred-citation:
+  type: conference-paper
+  title: "An Agent-Based Stock-Flow Consistent Framework for Energy Policy Design"
+  authors:
+    - family-names: "Buccella"
+      given-names: "Salvatore"
+      email: "salvatore.buccella@phd.unich.it"
+      affiliation: "Università G. d'Annunzio di Chieti-Pescara"
+    # TODO: add co-author(s) here as well, mirroring the list above
+  collection-title: "Proceedings of the LXVII Annual Conference of the Italian Economic Association (SIE)"
+  year: 2026
+  # doi: "10.5281/zenodo.PLACEHOLDER"   # update once Zenodo mints the DOI

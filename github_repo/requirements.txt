@@ -1,0 +1,14 @@
+# Production dependencies for the AB-SFC framework.
+# Pinned to the versions used for the SIE 2026 paper grid.
+# The Wilcoxon paired test is implemented in-house (no SciPy dependency).
+numpy>=1.26,<2.0
+pandas>=2.2,<3.0
+matplotlib>=3.8,<4.0
+
+# Notebook runner (only needed to execute SIE2026_production.ipynb)
+jupyter>=1.0
+nbconvert>=7.16
+ipykernel>=6.29
+
+# Test runner (only needed to run the SFC closure tests)
+pytest>=8.0
